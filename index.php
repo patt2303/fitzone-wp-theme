@@ -4,6 +4,9 @@
 <head>
   <meta charset="<?php bloginfo('charset'); ?>">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="FitZone is a top-tier gym focused on strength, fitness, and nutrition coaching in Mumbai.">
+  <meta name="keywords" content="gym, fitness, personal training, JSR, workout, nutrition">
+  <meta name="author" content="FitZone Gym">
   <title><?php bloginfo('name'); ?></title>
   <?php wp_head(); ?>
 </head>
